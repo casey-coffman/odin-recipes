@@ -16,3 +16,8 @@ body{
     color:tan;
     background-color: greenyellow;
 }
+
+.img{
+    width: 600px;
+    height: auto;
+}
