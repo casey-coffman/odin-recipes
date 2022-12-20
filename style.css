@@ -1,0 +1,18 @@
+body{
+    font-family:'Times New Roman', Times, serif
+}
+
+.rice{
+    color: whitesmoke;
+    background-color: lightgray;
+}
+
+.ramen{
+    color:burlywood;
+    background-color: lightyellow;
+}
+
+.chicken{
+    color:tan;
+    background-color: greenyellow;
+}
